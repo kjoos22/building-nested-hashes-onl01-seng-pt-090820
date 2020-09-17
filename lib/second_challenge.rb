@@ -14,3 +14,5 @@ def second_challenge
      }
    }
 end
+
+:test
